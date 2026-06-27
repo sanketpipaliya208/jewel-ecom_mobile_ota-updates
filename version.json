@@ -1,7 +1,7 @@
 {
   "platform": "android",
-  "otaBuild": 5,
-  "publishedAt": "2026-06-27T13:56:59Z",
+  "otaBuild": 6,
+  "publishedAt": "2026-06-27T14:16:34Z",
   "gitSha": "8d6f958",
-  "message": "Change title to Blue"
+  "message": "Change title to Green"
 }
