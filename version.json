@@ -1,7 +1,7 @@
 {
   "platform": "ios",
-  "otaBuild": 1,
-  "publishedAt": "2026-06-27T10:04:39Z",
-  "gitSha": "b495c9b",
-  "message": "add version based check update"
+  "otaBuild": 2,
+  "publishedAt": "2026-06-27T12:05:03Z",
+  "gitSha": "0fc7923",
+  "message": "update title name"
 }
