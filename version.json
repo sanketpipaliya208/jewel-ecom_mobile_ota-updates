@@ -1,7 +1,7 @@
 {
   "platform": "android",
-  "otaBuild": 8,
-  "publishedAt": "2026-06-27T14:39:03Z",
+  "otaBuild": 9,
+  "publishedAt": "2026-06-27T14:43:03Z",
   "gitSha": "8d6f958",
-  "message": "remove initial version checking"
+  "message": "OTA Release 2026-06-27 20:12:54"
 }
