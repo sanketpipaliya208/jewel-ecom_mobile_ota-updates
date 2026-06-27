@@ -1,7 +1,7 @@
 {
   "platform": "android",
-  "otaBuild": 9,
-  "publishedAt": "2026-06-27T14:43:03Z",
+  "otaBuild": 10,
+  "publishedAt": "2026-06-27T14:47:20Z",
   "gitSha": "8d6f958",
-  "message": "OTA Release 2026-06-27 20:12:54"
+  "message": "Change title to yellow"
 }
