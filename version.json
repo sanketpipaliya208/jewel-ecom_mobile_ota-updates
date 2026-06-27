@@ -1,7 +1,7 @@
 {
   "platform": "android",
-  "otaBuild": 2,
-  "publishedAt": "2026-06-27T12:05:34Z",
-  "gitSha": "0fc7923",
-  "message": "update title name"
+  "otaBuild": 3,
+  "publishedAt": "2026-06-27T12:12:35Z",
+  "gitSha": "8d6f958",
+  "message": "revert title changes"
 }
